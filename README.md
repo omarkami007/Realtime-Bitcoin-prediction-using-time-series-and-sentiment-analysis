@@ -20,6 +20,9 @@ The application offers the following functionalities:
 ---
 
 ## Models and Techniques
+1. **Data**:
+   - **Yfinance**: To scrape bitcoin prices.
+   - **NewsAPI**: To extract relevant news.
 1. **Time Series Analysis**:
    - **LSTM (Long Short-Term Memory)**: A neural network model for capturing temporal dependencies in Bitcoin prices.
    - **ARIMA (Auto-Regressive Integrated Moving Average)**: A statistical approach to model price trends.
