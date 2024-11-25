@@ -1,4 +1,4 @@
-![](/img/banner.jpg)
+![](/img/banner.webp)
 # Realtime Bitcoin Prediction Using Time Series and Sentiment Analysis
 
 ## Overview
