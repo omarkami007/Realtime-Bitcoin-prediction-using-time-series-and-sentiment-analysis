@@ -1,7 +1,8 @@
+![](/img/banner.jpg)
 # Realtime Bitcoin Prediction Using Time Series and Sentiment Analysis
 
 ## Overview
-This project is a **Streamlit application** [st-bitcoin-app](https://st-bitcoin-app-007.streamlit.app/) designed to provide real-time insights and predictions for Bitcoin prices. By combining time series analysis and sentiment analysis of Bitcoin-related news, the app helps users visualize trends, explore recent sentiment, and predict future Bitcoin prices.
+This project is a **[Streamlit application](https://st-bitcoin-app-007.streamlit.app/)** designed to provide real-time insights and predictions for Bitcoin prices. By combining time series analysis and sentiment analysis of Bitcoin-related news, the app helps users visualize trends, explore recent sentiment, and predict future Bitcoin prices.
 
 ---
 
